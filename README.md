@@ -1,0 +1,1 @@
+Cognito trigger Lambda function for Creating a User in DynamoDB. 
